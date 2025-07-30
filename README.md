@@ -1,4 +1,4 @@
-# 🧠 AI Priority Handling Assistant
+# AI Priority Handling Assistant
 
 An AI-powered assistant that simplifies task management by **understanding your tasks**, **assigning priorities**, and **scheduling them in Google Calendar** automatically.  
 
@@ -6,7 +6,7 @@ This project leverages **Natural Language Processing (NLP)** and **Machine Learn
 
 ---
 
-## ✨ Features
+## Features
 - **Natural Language Input:** Add tasks like _"Submit assignment tomorrow 5pm"_.
 - **Intent Classification:** Uses **IDF Vectorizer + Logistic Regression** to identify the type of task.
 - **Entity Extraction:** Uses **spaCy** to extract deadlines, times, and other relevant entities.
