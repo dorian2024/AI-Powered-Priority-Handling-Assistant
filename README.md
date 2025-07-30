@@ -26,9 +26,5 @@ This project leverages **Natural Language Processing (NLP)** and **Machine Learn
 
 ---
 
-## 🚀 Getting Started
-
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/yourusername/ai-priority-assistant.git
-cd ai-priority-assistant
+## Warning
+This version is currently does not provide multiuser support. To use this project you need to get API keys from Google Cloud Console for managing your Google calendar requests. 
