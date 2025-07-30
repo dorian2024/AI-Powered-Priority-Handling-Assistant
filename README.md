@@ -26,5 +26,5 @@ This project leverages **Natural Language Processing (NLP)** and **Machine Learn
 
 ---
 
-## Warning
+## Note
 This version is currently does not provide multiuser support. To use this project you need to get API keys from Google Cloud Console for managing your Google calendar requests. 
